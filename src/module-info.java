@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author suyog
+ *
+ */
+module JavaPractice {
+}
